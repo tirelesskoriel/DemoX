@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 5878932dea30ba34184ae5e65a2d68b5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Finger 1 L
+    100004: Finger 1 R
+    100006: Finger 10 L
+    100008: Finger 10 R
+    100010: Finger 11 L
+    100012: Finger 11 R
+    100014: Finger 12 L
+    100016: Finger 12 R
+    100018: Finger 13 L
+    100020: Finger 13 R
+    100022: Finger 2 L
+    100024: Finger 2 R
+    100026: Finger 3 L
+    100028: Finger 3 R
+    100030: Finger 4 L
+    100032: Finger 4 R
+    100034: Finger 5 L
+    100036: Finger 5 R
+    100038: Finger 6 L
+    100040: Finger 6 R
+    100042: Finger 7 L
+    100044: Finger 7 R
+    100046: Finger 8 L
+    100048: Finger 8 R
+    100050: Finger 9 L
+    100052: Finger 9 R
+    100054: Head
+    100056: Jaw
+    100058: Leg 1 L
+    100060: Leg 1 R
+    100062: Leg 2 L
+    100064: Leg 2 R
+    100066: Leg 3 L
+    100068: Leg 3 R
+    100070: Leg 4 L
+    100072: Leg 4 R
+    100074: MESH_LOD0
+    100076: MESH_LOD1
+    100078: MESH_LOD2
+    100080: MESH_LOD3
+    100082: //RootNode
+    100084: Neck 1
+    100086: Neck 2
+    100088: Neck 3
+    100090: Neck 4
+    100092: Root
+    100094: Tail 1
+    100096: Tail 2
+    100098: Tail 3
+    100100: Tail 4
+    100102: Toe 1 L
+    100104: Toe 1 R
+    100106: Toe 10 L
+    100108: Toe 10 R
+    100110: Toe 11 L
+    100112: Toe 11 R
+    100114: Toe 2 L
+    100116: Toe 2 R
+    100118: Toe 3 L
+    100120: Toe 3 R
+    100122: Toe 4 L
+    100124: Toe 4 R
+    100126: Toe 5 L
+    100128: Toe 5 R
+    100130: Toe 6 L
+    100132: Toe 6 R
+    100134: Toe 7 L
+    100136: Toe 7 R
+    100138: Toe 8 L
+    100140: Toe 8 R
+    100142: Toe 9 L
+    100144: Toe 9 R
+    100146: Tongue
+    100148: Wing 1 L
+    100150: Wing 1 R
+    100152: Wing 2 Help L
+    100154: Wing 2 Help R
+    100156: Wing 2 L
+    100158: Wing 2 R
+    100160: Wing 3 L
+    100162: Wing 3 R
+    100164: Wing 4 L
+    100166: Wing 4 R
+    100168: Wing Help 1 L
+    100170: Wing Help 1 R
+    400000: Body
+    400002: Finger 1 L
+    400004: Finger 1 R
+    400006: Finger 10 L
+    400008: Finger 10 R
+    400010: Finger 11 L
+    400012: Finger 11 R
+    400014: Finger 12 L
+    400016: Finger 12 R
+    400018: Finger 13 L
+    400020: Finger 13 R
+    400022: Finger 2 L
+    400024: Finger 2 R
+    400026: Finger 3 L
+    400028: Finger 3 R
+    400030: Finger 4 L
+    400032: Finger 4 R
+    400034: Finger 5 L
+    400036: Finger 5 R
+    400038: Finger 6 L
+    400040: Finger 6 R
+    400042: Finger 7 L
+    400044: Finger 7 R
+    400046: Finger 8 L
+    400048: Finger 8 R
+    400050: Finger 9 L
+    400052: Finger 9 R
+    400054: Head
+    400056: Jaw
+    400058: Leg 1 L
+    400060: Leg 1 R
+    400062: Leg 2 L
+    400064: Leg 2 R
+    400066: Leg 3 L
+    400068: Leg 3 R
+    400070: Leg 4 L
+    400072: Leg 4 R
+    400074: MESH_LOD0
+    400076: MESH_LOD1
+    400078: MESH_LOD2
+    400080: MESH_LOD3
+    400082: //RootNode
+    400084: Neck 1
+    400086: Neck 2
+    400088: Neck 3
+    400090: Neck 4
+    400092: Root
+    400094: Tail 1
+    400096: Tail 2
+    400098: Tail 3
+    400100: Tail 4
+    400102: Toe 1 L
+    400104: Toe 1 R
+    400106: Toe 10 L
+    400108: Toe 10 R
+    400110: Toe 11 L
+    400112: Toe 11 R
+    400114: Toe 2 L
+    400116: Toe 2 R
+    400118: Toe 3 L
+    400120: Toe 3 R
+    400122: Toe 4 L
+    400124: Toe 4 R
+    400126: Toe 5 L
+    400128: Toe 5 R
+    400130: Toe 6 L
+    400132: Toe 6 R
+    400134: Toe 7 L
+    400136: Toe 7 R
+    400138: Toe 8 L
+    400140: Toe 8 R
+    400142: Toe 9 L
+    400144: Toe 9 R
+    400146: Tongue
+    400148: Wing 1 L
+    400150: Wing 1 R
+    400152: Wing 2 Help L
+    400154: Wing 2 Help R
+    400156: Wing 2 L
+    400158: Wing 2 R
+    400160: Wing 3 L
+    400162: Wing 3 R
+    400164: Wing 4 L
+    400166: Wing 4 R
+    400168: Wing Help 1 L
+    400170: Wing Help 1 R
+    2100000: 01 - Default
+    2100002: No Name
+    2300000: Body
+    3300000: Body
+    4300000: MESH_LOD0
+    4300002: Body
+    4300004: MESH_LOD1
+    4300006: MESH_LOD2
+    4300008: MESH_LOD3
+    9500000: //RootNode
+    13700000: MESH_LOD0
+    13700002: MESH_LOD1
+    13700004: MESH_LOD2
+    13700006: MESH_LOD3
+    20500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

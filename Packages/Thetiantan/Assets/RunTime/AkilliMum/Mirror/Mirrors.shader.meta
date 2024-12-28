@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: d9390d1e566004b318f201efd2e91d4e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _MetallicGlossMap: {instanceID: 0}
+  - _BumpMap: {instanceID: 0}
+  - _ParallaxMap: {instanceID: 0}
+  - _OcclusionMap: {instanceID: 0}
+  - _EmissionMap: {instanceID: 0}
+  - _DetailMask: {instanceID: 0}
+  - _DetailAlbedoMap: {instanceID: 0}
+  - _DetailNormalMap: {instanceID: 0}
+  - _ReflectionTex: {instanceID: 0}
+  - _ReflectionTexOther: {instanceID: 0}
+  - _RefractionTex: {instanceID: 0}
+  - _ReflectionTexDepth: {instanceID: 0}
+  - _ReflectionTexOtherDepth: {instanceID: 0}
+  - _MaskTex: {instanceID: 0}
+  - _WaveNoiseTex: {instanceID: 0}
+  - _RippleTex: {instanceID: 0}
+  nonModifiableTextures: []
+  preprocessorOverride: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

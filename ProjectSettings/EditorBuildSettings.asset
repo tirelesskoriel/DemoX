@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/DemoX/Level/Scenes/Offline.unity
+    guid: 4d911715f6d0b7d42b681eeeea77aae2
+  - enabled: 1
+    path: Assets/DemoX/Level/Scenes/Online.unity
+    guid: 0270d64c0e94f874e8811582b38e3a30
+  - enabled: 1
+    path: Assets/DemoX/Level/Scenes/Pyramid.unity
+    guid: ef166276285775145b39f612b70b8653
+  - enabled: 0
+    path: Assets/DemoX/Level/Scenes/Jurassic.unity
+    guid: e90f78d23d29c384ba017098970229b8
+  - enabled: 1
+    path: Assets/DemoX/Level/Scenes/TianTan.unity
+    guid: a440c9985678a3746a331f79b91acec0
+  - enabled: 0
+    path: Assets/DemoX/Level/Scenes/ArtScene0524.unity
+    guid: eb770a3b9bb8ae44d838a612b43d1ee9
+  - enabled: 0
+    path: Assets/_Project/Level/PlayerNetTest.unity
+    guid: d69ac59e245757a4f855f602bfd252b9
+  m_configObjects:
+    Unity.XR.PXR.Settings: {fileID: 11400000, guid: 07510ab3b4409e0468449f4c4b3369f1, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: acbdc5d8f9232344b802970b857ca3da, type: 2}

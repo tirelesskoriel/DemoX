@@ -1,0 +1,54 @@
+{
+  "name": "comp.gvr.tiantan",
+  "displayName": "[TianTan&Zhanting]",
+  "version": "1.2.5",
+  "unity": "2020.3",
+  "description": "投影模式 天坛与技术馆,侏罗纪",
+  "samples": [
+    {
+      "displayName": "TianTan Starter Assets",
+      "description": "Starter Assets",
+      "path": "Assets/Samples~/Tiantan"
+    },
+    {
+      "displayName": "Zhanting Starter Assets",
+      "description": "Starter Assets",
+      "path": "Assets/Samples~/Zhanting"
+    },
+    {
+      "displayName": "ZhantingPBR Starter Assets",
+      "description": "Starter Assets",
+      "path": "Assets/Samples~/Zhanting_PBR"
+    },
+    {
+      "displayName": "Jurassic Starter Assets",
+      "description": "Starter Assets",
+      "path": "Assets/Samples~/Jurassic"
+    },
+    {
+      "displayName": "Pyramid Starter Assets",
+      "description": "Starter Assets",
+      "path": "Assets/Samples~/Pyramid"
+    },
+    {
+      "displayName": "Black Starter Assets",
+      "description": "Starter Assets",
+      "path": "Assets/Samples~/BlackScene"
+    },
+    {
+      "displayName": "HandsUI Starter Assets",
+      "description": "Starter Assets",
+      "path": "Assets/Samples~/HandsUI"
+    },
+    {
+      "displayName": "ConsoleUI Starter Assets",
+      "description": "Starter Assets",
+      "path": "Assets/Samples~/ConsoleUI"
+    },
+    {
+      "displayName": "SceneJump Starter Assets",
+      "description": "Starter Assets",
+      "path": "Assets/Samples~/SceneJump"
+    }
+  ]
+}

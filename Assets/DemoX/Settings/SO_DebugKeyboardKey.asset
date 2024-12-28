@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38140bef6e1443e8877d76a15d0b70c1, type: 3}
+  m_Name: SO_DebugKeyboardKey
+  m_EditorClassIdentifier: 
+  DirectPickScene: 28
+  LeftWatchPose: 40
+  Pinching: 30
+  DoubleTap: 34
+  Fisting: 20
+  ShowItems: 16
+  StartGame: 38
+  Reset: 32
+  HandMotionW: 37
+  HandMotionA: 15
+  HandMotionS: 33
+  HandMotionD: 18

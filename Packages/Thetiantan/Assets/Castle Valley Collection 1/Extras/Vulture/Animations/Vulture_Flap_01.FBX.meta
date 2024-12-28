@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 2816464e18f265e4886eb961a8bd6865
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Finger 1 L
+    100004: Finger 1 R
+    100006: Finger 10 L
+    100008: Finger 10 R
+    100010: Finger 11 L
+    100012: Finger 11 R
+    100014: Finger 12 L
+    100016: Finger 12 R
+    100018: Finger 13 L
+    100020: Finger 13 R
+    100022: Finger 2 L
+    100024: Finger 2 R
+    100026: Finger 3 L
+    100028: Finger 3 R
+    100030: Finger 4 L
+    100032: Finger 4 R
+    100034: Finger 5 L
+    100036: Finger 5 R
+    100038: Finger 6 L
+    100040: Finger 6 R
+    100042: Finger 7 L
+    100044: Finger 7 R
+    100046: Finger 8 L
+    100048: Finger 8 R
+    100050: Finger 9 L
+    100052: Finger 9 R
+    100054: Head
+    100056: Jaw
+    100058: Leg 1 L
+    100060: Leg 1 R
+    100062: Leg 2 L
+    100064: Leg 2 R
+    100066: Leg 3 L
+    100068: Leg 3 R
+    100070: Leg 4 L
+    100072: Leg 4 R
+    100074: Neck 1
+    100076: Neck 2
+    100078: Neck 3
+    100080: Neck 4
+    100082: Root
+    100084: Tail 1
+    100086: Tail 2
+    100088: Tail 3
+    100090: Tail 4
+    100092: Toe 1 L
+    100094: Toe 1 R
+    100096: Toe 10 L
+    100098: Toe 10 R
+    100100: Toe 11 L
+    100102: Toe 11 R
+    100104: Toe 2 L
+    100106: Toe 2 R
+    100108: Toe 3 L
+    100110: Toe 3 R
+    100112: Toe 4 L
+    100114: Toe 4 R
+    100116: Toe 5 L
+    100118: Toe 5 R
+    100120: Toe 6 L
+    100122: Toe 6 R
+    100124: Toe 7 L
+    100126: Toe 7 R
+    100128: Toe 8 L
+    100130: Toe 8 R
+    100132: Toe 9 L
+    100134: Toe 9 R
+    100136: Tongue
+    100138: //RootNode
+    100140: Wing 1 L
+    100142: Wing 1 R
+    100144: Wing 2 Help L
+    100146: Wing 2 Help R
+    100148: Wing 2 L
+    100150: Wing 2 R
+    100152: Wing 3 L
+    100154: Wing 3 R
+    100156: Wing 4 L
+    100158: Wing 4 R
+    100160: Wing Help 1 L
+    100162: Wing Help 1 R
+    400000: Body
+    400002: Finger 1 L
+    400004: Finger 1 R
+    400006: Finger 10 L
+    400008: Finger 10 R
+    400010: Finger 11 L
+    400012: Finger 11 R
+    400014: Finger 12 L
+    400016: Finger 12 R
+    400018: Finger 13 L
+    400020: Finger 13 R
+    400022: Finger 2 L
+    400024: Finger 2 R
+    400026: Finger 3 L
+    400028: Finger 3 R
+    400030: Finger 4 L
+    400032: Finger 4 R
+    400034: Finger 5 L
+    400036: Finger 5 R
+    400038: Finger 6 L
+    400040: Finger 6 R
+    400042: Finger 7 L
+    400044: Finger 7 R
+    400046: Finger 8 L
+    400048: Finger 8 R
+    400050: Finger 9 L
+    400052: Finger 9 R
+    400054: Head
+    400056: Jaw
+    400058: Leg 1 L
+    400060: Leg 1 R
+    400062: Leg 2 L
+    400064: Leg 2 R
+    400066: Leg 3 L
+    400068: Leg 3 R
+    400070: Leg 4 L
+    400072: Leg 4 R
+    400074: Neck 1
+    400076: Neck 2
+    400078: Neck 3
+    400080: Neck 4
+    400082: Root
+    400084: Tail 1
+    400086: Tail 2
+    400088: Tail 3
+    400090: Tail 4
+    400092: Toe 1 L
+    400094: Toe 1 R
+    400096: Toe 10 L
+    400098: Toe 10 R
+    400100: Toe 11 L
+    400102: Toe 11 R
+    400104: Toe 2 L
+    400106: Toe 2 R
+    400108: Toe 3 L
+    400110: Toe 3 R
+    400112: Toe 4 L
+    400114: Toe 4 R
+    400116: Toe 5 L
+    400118: Toe 5 R
+    400120: Toe 6 L
+    400122: Toe 6 R
+    400124: Toe 7 L
+    400126: Toe 7 R
+    400128: Toe 8 L
+    400130: Toe 8 R
+    400132: Toe 9 L
+    400134: Toe 9 R
+    400136: Tongue
+    400138: //RootNode
+    400140: Wing 1 L
+    400142: Wing 1 R
+    400144: Wing 2 Help L
+    400146: Wing 2 Help R
+    400148: Wing 2 L
+    400150: Wing 2 R
+    400152: Wing 3 L
+    400154: Wing 3 R
+    400156: Wing 4 L
+    400158: Wing 4 R
+    400160: Wing Help 1 L
+    400162: Wing Help 1 R
+    7400000: Vulture Flap
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Vulture Flap
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
